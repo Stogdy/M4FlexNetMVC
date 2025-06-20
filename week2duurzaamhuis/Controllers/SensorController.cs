@@ -28,4 +28,4 @@ public class SensorController : ControllerBase
         };
         return sensoren;
     }
-}
+}z
