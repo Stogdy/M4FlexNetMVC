@@ -14,5 +14,6 @@ class Program
         Console.WriteLine("Videogame character: " + gameCharacter);
         Console.WriteLine("Is actief: " + isActief);
         Console.WriteLine("Score: " + score);
+        app.UseStaticFiles();
     }
 }

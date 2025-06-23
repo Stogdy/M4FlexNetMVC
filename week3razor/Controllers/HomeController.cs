@@ -19,7 +19,7 @@ public class HomeController : Controller
         {
             Titel = "Mijn eerste model",
             Content = "Het is niet zo moeilijk om te maken",
-            ImageUrl = "img/nieuws.png"
+            ImageUrl = "img/newsitem.PNG"
         };
 
         return View(item);
